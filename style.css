@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+  background-color: #293f50;
+  font-family: 'Roboto', sans-serif;
+margin: 0;
+padding: 0;
+
+}
+header{
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 72vw;
+}
+.top{
+  background-color:  #648880;
+  height: 1.5vh;
+  width: 24vw;
+  border: 0px;
+  margin-inline-start: inherit;
+  margin: 0 auto 0 0;
+
+}
+.start1{
+  display: flex;
+  justify-content:space-between;
+}
+.h1main{
+  width: 10%;
+  color: white;
+  font-size: 300%;
+  font-weight: 1;
+}
+.h2{
+  color:  #648880;
+  font-size: 178%;
+  width: 30vw;
+}
+ul{
+width: 30vw;
+padding-left: 0px;
+} 
+.start{
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  padding: 1.5%;
+  
+}
+.second{
+  font-size: 240%;
+  font-weight: 550;
+  color:  #648880; 
+  text-align: center;
+  margin-top: 2%;
+}
+.top-content{
+  color: white;
+  font-size: 150%;
+  width: 54vw;
+  margin-top: 2vh;
+  margin-left: 10vw;
+  text-align: center;
+}
+.button{
+  margin: 80px ;
+  text-align: center;
+}
+.button-a:hover{
+  background-color: white;
+}
+.button-a{
+  text-decoration: none;
+text-transform: uppercase;
+border: 1px solid white;
+padding: 20px;
+cursor: pointer;
+border-radius: 5px;
+color:  #648880; 
+}
+main{
+  height: 80vh;
+  width: 100vw;
+  background-color: white;
+}
+.main{
+  padding-top: 5vh;
+  margin-left: auto;
+  margin-right: auto;
+  width: 72vw;
+  display: flex;
+  justify-content: space-around;
+  color: #648880;
+}
+.first{
+  width: 20vw;
+display: inline-block;
+}
+.first img{
+  width: 20vw;
+  height: auto;
+  border-radius: 5px;
+}
+.second p h2{
+  font-size: 90%;
+}
+.second2{
+  width: 20vw;
+  display: inline-block;
+}
+.second2 img{
+  width: 20vw;
+  height: auto;
+  border-radius: 5px;
+
+}
+.third{
+  width: 20vw;
+  display: inline-block;
+}
+.third img{
+  width: 20vw;
+  height: auto;
+  border-radius: 5px;
+}
+footer{
+  height: 15vh;
+}
+footer {
+  /* width: 15vh; */
+  display: flex;
+  justify-content:space-around;
+align-items: center;
+}
+.copyright{
+  color: #648880;
+/* padding: 2vh; */
+}
+.bottom-table a{
+  text-decoration: none;
+  color: white;
+  font-size: 85%;
+  padding: 3px;
+  display: inline;
+}

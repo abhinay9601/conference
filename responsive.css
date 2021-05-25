@@ -1,0 +1,44 @@
+@media screen and (max-width: 1290px) 
+{
+  body{
+    width: 100vw;
+    
+  }
+  header{
+    width: 100%;
+    margin-left: 2vw;
+  }
+   
+ .h1main{
+   font-size: 130%;
+ }
+ .second-div{
+   width: 84vw;
+ }
+ .start1 .div1{
+   width: 51vw;
+ }
+ div .h2{
+ font-size: 3vh;
+ }
+ ul{
+ width: 61vw;
+font-size: 1.4vh; 
+}
+.top-content{
+  margin-left: 22vw ;
+}
+h3{
+  font-size: 2vh;
+}
+.first h2{
+  font-size: 1.2em;
+}
+.second2 h2{
+  font-size: 1.2em;
+}
+.third h2{
+  font-size: 1.2em;
+
+}
+ }
